@@ -1,0 +1,4 @@
+/slides/*/media/*
+  Cache-Control: public, max-age=604800
+/slides/*/assets/*
+  Cache-Control: public, max-age=31536000, immutable
